@@ -1,3 +1,5 @@
+/artificial-intelligence/llms-models/deepseek-model/
+
 # groq-deepseek
 
 This repository provides simple **examples** for using the **Groq API** with **DeepSeek models**.  
